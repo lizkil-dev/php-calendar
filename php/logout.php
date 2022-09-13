@@ -1,0 +1,1 @@
+<h3 class="logout">Du bist jetzt ausgeloggt</h1>
