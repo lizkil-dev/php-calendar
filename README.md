@@ -19,7 +19,7 @@ Username: Lisa
 Password: Lustig  
 
 ## Main Features
-Secure login using password_hash: Allows user to login in order to update the calendar  
-CRUD functionalities: Allows the user to create, read, update and delete their events in a managed format  
-Profile update option: Allows users to update their profile/account details  
-Secure registration and login option for users  
+• Secure login using password_hash: Allows user to login in order to update the calendar  
+• CRUD functionalities: Allows the user to create, read, update and delete their events in a managed format  
+• Profile update option: Allows users to update their profile/account details  
+• Secure registration and login option for users  
