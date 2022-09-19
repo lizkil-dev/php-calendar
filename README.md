@@ -14,7 +14,7 @@ Configure connection between your database and server by modifying the index.php
 Navigate to the installation in your browser ( E.g : http://localhost/php-calendar )
 Done :)
 
-## Login Details
+## Login Details 
 Username: Lisa
 Password: Lustig
 
