@@ -8,10 +8,10 @@ PHP 5.3 or higher recommended
 MySQL DB
 
 ## Installation
-Upload php-calendar to the directory of your choice. (E.g : /var/www/html/php-calendar )  
-Import MySql Db file to your database software (E.g : PhpMyAdmin -> Create DB -> Import terminkalender.sql )  
-Configure connection between your database and server by modifying the index.php file  
-Navigate to the installation in your browser ( E.g : http://localhost/php-calendar )  
+• Upload php-calendar to the directory of your choice. (E.g : /var/www/html/php-calendar )  
+• Import MySql Db file to your database software (E.g : PhpMyAdmin -> Create DB -> Import terminkalender.sql )  
+• Configure connection between your database and server by modifying the index.php file  
+• Navigate to the installation in your browser ( E.g : http://localhost/php-calendar )  
 Done :)
 
 ## Login Details 
