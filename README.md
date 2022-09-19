@@ -2,7 +2,7 @@
 A calendar with login-function to manage your events in your personal calendar
 
 ## Demo
-[screen-capture.webm](https://user-images.githubusercontent.com/102907651/191045459-9cfbf818-0385-4dd9-b3ce-7e21fa34eebd.webm)
+[screen-capture (2).webm](https://user-images.githubusercontent.com/102907651/191047107-b760c035-bd06-49cf-a7da-e488ba5ebd82.webm)
 
 ## Requirements
 PHP 5.3 or higher recommended  
