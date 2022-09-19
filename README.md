@@ -2,6 +2,7 @@
 A calendar with login-function to manage your events in your personal calendar
 
 ## Demo
+[screen-capture.webm](https://user-images.githubusercontent.com/102907651/191045459-9cfbf818-0385-4dd9-b3ce-7e21fa34eebd.webm)
 
 ## Requirements
 PHP 5.3 or higher recommended  
@@ -13,10 +14,6 @@ MySQL DB
 • Configure connection between your database and server by modifying the index.php file  
 • Navigate to the installation in your browser ( E.g : http://localhost/php-calendar )  
 Done :)
-
-## Login Details 
-Username: Lisa  
-Password: Lustig  
 
 ## Main Features
 • Secure login using password_hash: Allows user to login in order to update the calendar  
