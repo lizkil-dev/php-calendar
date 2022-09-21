@@ -1,5 +1,5 @@
 # Event Calendar
-A calendar with login-function to manage your events in your personal calendar
+An event calendar with login-function to manage your events in your personal calendar
 
 ## Demo
 [screen-capture (2).webm](https://user-images.githubusercontent.com/102907651/191047107-b760c035-bd06-49cf-a7da-e488ba5ebd82.webm)
